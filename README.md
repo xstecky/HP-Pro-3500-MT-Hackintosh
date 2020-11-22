@@ -1,6 +1,8 @@
 # HP-Pro-3500-MT-Hackintosh
 
-**For the HP Pro 3500 MT, i5 3470 (3rd gen.) and Nvidia GTX 1050ti**
+**High Sierra for the HP Pro 3500 MT, i5 3470 (3rd gen.) and Nvidia GTX 1050ti. I am unable to test newer versions without an AMD GPU.
+
+**This isn't a tutorial, but rather the files I used on my machine. Consult the r/Hackintosh subbreddit for further help.
 
 # Installation:
 
