@@ -13,4 +13,4 @@ Boot arguments during installation:
 
 Use Clover Configurator to generate a new serial number, board serial number and SmUUID after installation.
 
-Install all macOS updates and install the latest Nvidia driver, then remove `nv_disable=` from the boot args.
+Install all macOS updates and install the latest Nvidia driver, then remove `nv_disable=1` from the boot args.
